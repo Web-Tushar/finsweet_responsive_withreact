@@ -45,7 +45,7 @@ function App() {
             <h1 className="text-white font-bold md:w-[592px] xs:w-[350px] sm:w-[400px] xs:text-[25px] sm:text-[40px]  md:text-[64px] uppercase tracking-tight md:leading-[82px]  ">Become a part of our community</h1>
 
             <Button title="tushar" btn="two"/>
-            <p className=" mt-16 text-primary font-bold xs:w-[260px] md:w-[338px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.</p>
+            <p className=" pl-[30px] mt-16 text-primary font-bold xs:w-[260px] relative after:absolute after:w-[18px] after:h-[2px] after:content-[''] after:bg-primary after:top-[12px] after:left-[0] md:w-[338px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.</p>
           </div>
 
         </div>
